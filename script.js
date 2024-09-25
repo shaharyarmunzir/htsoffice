@@ -4,9 +4,9 @@ let client = AgoraRTC.createClient({mode:'rtc', 'codec':"vp8"})
 //#2
 let config = {
     appid:'4fba396d9d6c47e48140bbed437cbf29',
-    token:'007eJxTYBDbc+dlzcVC0XyOhtv3mu3V/fqluF85zbp7s7KM/0ZuRpcCg0laUqKxpVmKZYpZsol5qomFoYlBUlJqiomxeXJSmpFlsMnbtIZARgbXF18YGRkgEMTnYsjJLEstLilKTcxlYAAASEEjDA==',
+    token:'007eJxTYFi3pDiwLM74m93ifdu/P7m20SBR+0n1jPNKlxj2yOX94v+swGCSlpRobGmWYplilmxinmpiYWhikJSUmmJibJ6clGZkeeD457SGQEYGw8ofTIwMEAjiMzOUFJcxMAAA/SUifQ==',
     uid:null,
-    channel:'livestream',
+    channel:'tsv',
 }
 
 //#3 - Setting tracks for when user joins
