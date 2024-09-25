@@ -9,7 +9,6 @@ let config = {
     channel:'tsv',
 }
 
-//#3 - Setting tracks for when user joins
 let localTracks = {
     audioTrack:null,
     videoTrack:null
